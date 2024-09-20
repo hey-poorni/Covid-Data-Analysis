@@ -4,7 +4,7 @@ This project performs data analysis on COVID-19 statistics, exploring trends in 
 
 Features
 
-Analysis of COVID-19 cases, recoveries, and deaths
-Trend visualization over time
-Country-wise and region-wise comparisons
-Data filtering by specific metrics
+1. Analysis of COVID-19 cases, recoveries, and deaths
+2. Trend visualization over time
+3. Country-wise and region-wise comparisons
+4. Data filtering by specific metrics
